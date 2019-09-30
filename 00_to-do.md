@@ -1,1 +1,1 @@
-- [] write a document to Secure the helm [Securing a Helm installation](https://helm.sh/docs/using_helm/#securing-your-helm-installation)
+- [ ] write a document to Secure the helm [Securing a Helm installation](https://helm.sh/docs/using_helm/#securing-your-helm-installation)
